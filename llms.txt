@@ -1,0 +1,46 @@
+﻿# Lexi YT 420 - Portfolio
+
+Official portfolio website of Lexi YT 420, a professional Thumbnail Artist, Gamer, and Content Creator.
+
+## Overview
+This is a static portfolio website created to showcase professional YouTube thumbnail designs, creative work, and commission contact information.
+
+## Tech Stack
+- HTML5
+- CSS3
+
+## Pages
+- /index.html
+  Main landing page featuring the hero section, introduction, about section, and contact information.
+
+- /works.html
+  Gallery page showcasing professional thumbnail artwork and portfolio projects.
+
+- /404.html
+  Custom 404 error page for missing routes.
+
+- /500.html
+  Custom 500 error page for server-related issues.
+
+## Assets
+- /static/style/styles.css
+  Main stylesheet for the website.
+
+- /static/img/
+  Image assets used throughout the website, including thumbnail categories and backgrounds.
+
+## Thumbnail Categories
+- Minecraft Thumbnails
+- Normal Thumbnails
+
+## Contact
+Email: lexiyt00@gmail.com  
+Instagram: https://instagram.com/flax.hb  
+Discord: https://discord.gg/NajzmStBXx
+
+## Repository
+Source Code:
+https://github.com/Fmasterpro27/Lexi-portfolio
+
+## License
+This project is licensed under the MIT License.

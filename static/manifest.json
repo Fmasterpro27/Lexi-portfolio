@@ -1,0 +1,22 @@
+{
+  "name": "Lexi YT 420 Portfolio",
+  "short_name": "Lexi",
+  "description": "Professional Thumbnail Artist, Gamer & Content Creator.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/static/img/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/static/img/lexi_yt_420.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}

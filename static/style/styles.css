@@ -526,7 +526,6 @@ body {
   position: relative;
 }
 
-/* UNDERLINE ANIMATION */
 
 .footer-bottom a::after{
   content: "";
