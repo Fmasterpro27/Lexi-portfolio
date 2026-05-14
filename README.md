@@ -66,7 +66,7 @@ The portfolio is structured as a lightweight static website without any backend 
 ## Project Structure
 
 ```txt
-C:.
+Lexi-portfolio/
 │   .gitignore
 │   404.html
 │   500.html
